@@ -1,21 +1,21 @@
 {
-    "name": "4x4 Gems",
-    "short_name": "Gems",
+    "name": "gems",
+    "short_name": "gems",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "4x4 Gemstones",
+    "description": "A new Flutter application.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/blue-diamond-no-bg.png",
+            "src": "icons/Icon-192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "icons/blue-diamond-no-bg.png",
+            "src": "icons/Icon-512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
