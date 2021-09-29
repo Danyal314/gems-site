@@ -56534,7 +56534,7 @@ case 3:return P.V(null,r)}})
 return P.W($async$dg,r)},
 zo(){var s=0,r=P.X(t.z),q=this
 var $async$zo=P.R(function(a,b){if(a===1)return P.U(b,r)
-while(true)switch(s){case 0:q.dg("https://opensea.io/")
+while(true)switch(s){case 0:q.dg("https://opensea.io/collection/4x4-gemstones")
 q.d.nc()
 return P.V(null,r)}})
 return P.W($async$zo,r)},
